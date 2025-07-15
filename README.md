@@ -90,4 +90,4 @@ email: hang@phast.ai
 
 ## License
 
-No license is required
+MIT license
