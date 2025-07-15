@@ -9,7 +9,7 @@ Here is the link of the youtube: https://youtu.be/Pc0ZpQPgfX4
 
 ## Getting Started
 
-![Screenshot](GUI_labeling.png)
+![Screenshot](Semantic_Labeling_GUI/GUI_labeling.png)
 
 ### Dependencies
 
